@@ -18,7 +18,7 @@
 This project conducts an exploratory data analysis (EDA) and comparative study to address the research question:  
 **“Is Subway really a healthier choice than McDonald’s?”**
 
-Leveraging official nutrition data from Subway and a curated McDonald’s dataset, the analysis compares key nutritional metrics (calories, fat, sugar, sodium, protein, and fiber) to evaluate whether Subway’s "healthy" branding is supported by evidence or driven by marketing.
+Leveraging official nutrition data from Subway and a curated dataset from McDonald’s, the analysis compares key nutritional metrics (calories, fat, sugar, sodium, protein, and fiber) to evaluate whether Subway’s "healthy" branding is supported by evidence or driven by marketing.
 
 ---
 
@@ -43,25 +43,6 @@ Leveraging official nutrition data from Subway and a curated McDonald’s datase
 
 ---
 
-## 📂 Project Structure
-
-📁 Subway_vs_McDonalds_Analysis
-├── 📘 nutrition_compare.ipynb
-├── 📁 dataset/
-│   ├── Subway_menu.csv
-│   └── menu.csv
-└── 📄 README.md
-
----
-
-## 🚀 How to Run This Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/[yourusername]/Subway-vs-McDonalds-Analysis.git
-   cd Subway-vs-McDonalds-Analysis
-
----
 ## 📂 Data Sources
 
 - **McDonald’s Dataset**: Curated from GitHub by Safal Swayam [](https://github.com/Safalswayam/McDonald-s_Menu_Full_Analysis/tree/main).
