@@ -45,8 +45,8 @@ Leveraging official nutrition data from Subway and a curated dataset from McDona
 
 ## 📂 Data Sources
 
-- **McDonald’s Dataset**: Curated from GitHub by Safal Swayam [](https://github.com/Safalswayam/McDonald-s_Menu_Full_Analysis/tree/main).
-- **Subway Nutritional Info**: Sourced from the official Subway website [](https://www.subway.com/en-AU/).
+- **McDonald’s Dataset**: [Curated from GitHub by Safal Swayam](https://github.com/Safalswayam/McDonald-s_Menu_Full_Analysis/tree/main).
+- **Subway Nutritional Info**: [Sourced from the official Subway website](https://www.subway.com/en-AU/).
 
 ---
 
